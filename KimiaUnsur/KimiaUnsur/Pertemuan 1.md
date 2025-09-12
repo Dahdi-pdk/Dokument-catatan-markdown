@@ -1,0 +1,3 @@
+- Dalam kimia anorganik ikatan antar atom bisa menjadi sangat relatif tidak bergantung pada jumlah elektron 
+- Kimia AnOrganik adalah kimia yang berasal dari makhluk yang tidak hidup
+- 

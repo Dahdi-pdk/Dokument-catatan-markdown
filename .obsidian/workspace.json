@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "16e396b372da013a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e1b3e1f9210711d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd46883c2900fc95",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Tanpa judul 3.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Tanpa judul 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a19881ede797711",
+    "type": "split",
+    "children": [
+      {
+        "id": "3595769fb3829894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c44f0e792ade04f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Penjelajah berkas"
+            }
+          },
+          {
+            "id": "6e9f2139cfa31032",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Penelusuran"
+            }
+          },
+          {
+            "id": "ba7bdf34fbf6e7c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Penanda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28443b047c2f7a19",
+    "type": "split",
+    "children": [
+      {
+        "id": "def5aceecfd34096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0705fdf43e53495",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tugas kimia Anorganik atau Unsur/Tugas 2-september-2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlink pada Tugas 2-september-2025"
+            }
+          },
+          {
+            "id": "cd325532ea738220",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tugas kimia Anorganik atau Unsur/Tugas 2-september-2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Tautan keluar dari Tugas 2-september-2025"
+            }
+          },
+          {
+            "id": "157e42b9acd2c325",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2c65622c0fa466a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tugas kimia Anorganik atau Unsur/Tugas 2-september-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Kerangka dari Tugas 2-september-2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fd46883c2900fc95",
+  "lastOpenFiles": [
+    "Tanpa judul 2.base",
+    "Tanpa judul 3.base",
+    "Tanpa judul 1.base",
+    "Tanpa judul.base",
+    "Tugas kimia Anorganik atau Unsur/Tugas 2-september-2025.md",
+    "create a link.md",
+    "Tugas kimia Anorganik atau Unsur",
+    "Welcome.md"
+  ]
+}
