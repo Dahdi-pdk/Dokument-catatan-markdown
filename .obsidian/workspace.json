@@ -11,13 +11,14 @@
             "id": "fd46883c2900fc95",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Tanpa judul 3.base",
-                "viewName": "Table"
+                "file": "Kimia Dasar/Struktur Atom.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Tanpa judul 3"
+              "icon": "lucide-file",
+              "title": "Struktur Atom"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tugas kimia Anorganik atau Unsur/Tugas 2-september-2025.md",
+                "file": "Kimia Dasar/Struktur Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlink pada Tugas 2-september-2025"
+              "title": "Backlink pada Struktur Atom"
             }
           },
           {
@@ -154,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -170,6 +171,8 @@
   },
   "active": "fd46883c2900fc95",
   "lastOpenFiles": [
+    "Kimia Dasar/Struktur Atom.md",
+    "Kimia Dasar",
     "Tanpa judul 2.base",
     "Tanpa judul 3.base",
     "Tanpa judul 1.base",
