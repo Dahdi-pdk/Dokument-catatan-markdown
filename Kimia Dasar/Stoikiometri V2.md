@@ -233,3 +233,4 @@ Jika 4 g H₂ bereaksi sempurna dengan O₂ menghasilkan H₂O (uap) pada STP, b
 4. **Industri** → perhitungan kebutuhan bahan baku, hasil produksi, efisiensi proses.  
 
 ---
+![gambar stoikiometri](stoikiometri.png)
