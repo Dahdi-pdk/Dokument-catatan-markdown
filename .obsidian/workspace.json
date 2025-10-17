@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea58bf1dc5044f8e",
+        "id": "e2e595d54e403e22",
         "type": "tabs",
         "children": [
           {
-            "id": "beaebe88218eb2a2",
+            "id": "0ad3a8df74ce1beb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kimia_Fisik/Gas-Deepseek.md",
+                "file": "Project/RDKit/ROADMAP RDKit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gas-Deepseek"
+              "title": "ROADMAP RDKit"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ea3a23aa75e4ca88",
@@ -169,10 +169,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "beaebe88218eb2a2",
+  "active": "0ad3a8df74ce1beb",
   "lastOpenFiles": [
-    "Kimia_Fisik/Gas-Grok.md",
+    "RDKit1 - WorkFlow.md",
+    "Project/RDKit/ROADMAP RDKit.md",
+    "Project/RDKit",
+    "Project",
+    "RDKit/RDKit1.md",
+    "lainnya/Flask, Deepseek.md",
+    "lainnya/Chempy, Deepseek.md",
+    "Guest Lecture.md",
+    "Tanpa judul.canvas",
+    "KimiaUnsur/Pertemuan 4.md",
+    "KimiaUnsur/Pertemuan 1.md",
     "Kimia_Fisik/Gas-Deepseek.md",
+    "Kimia_Fisik/Gas-Grok.md",
     "Kimia_Fisik/Gas-GPT.md",
     "Kimia_Fisik"
   ]
